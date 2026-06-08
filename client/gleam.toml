@@ -4,6 +4,9 @@ target = "javascript"
 
 [dependencies]
 gleam_stdlib = ">= 1.0.3 and < 2.0.0"
+gleam_http = ">= 4.3.0 and < 5.0.0"
+gleam_fetch = ">= 1.4.0 and < 2.0.0"
+gleam_javascript = ">= 1.0.0 and < 2.0.0"
 
 [dev_dependencies]
 gleeunit = ">= 1.11.0 and < 2.0.0"
